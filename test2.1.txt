@@ -1,2 +1,4 @@
 print("hello world!")
-prin("hi men")
+print("hi men")
+print("hi men")prin("hi men")
+print("by by")
